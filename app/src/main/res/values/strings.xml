@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Darcheni</string>
+    <!-- Change this to your real site URL if different -->
+    <string name="site_url">https://darcheni.com</string>
+</resources>

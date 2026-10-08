@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This only colors the splash screen and status bar; your real theme comes from the website itself -->
+    <color name="brand_primary">#1A1A1A</color>
+    <color name="brand_background">#FFFFFF</color>
+</resources>
